@@ -1,75 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Capstone Project 1
 
-> One paragraph statement about the project.
+> In this project there are two main pages, home page and about page, designed in HTML, CSS and Javascript. The pages are designed to resemble this [template](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015). The featured speakers section in the home page is done with Javascript. 
 
-![screenshot](./app_screenshot.png)
+![Project screenshot](https://github.com/Fikerte-T/Capstone-Project-1/blob/home-about-pages/images/project-screenshot.png)
+[Project website] (https://fikerte-t.github.io/Capstone-Project-1/)
 
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- Javascript
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+[git@github.com:Fikerte-T/Capstone-Project-1.git](git@github.com:Fikerte-T/Capstone-Project-1.git)
 
-### Prerequisites
+## Author 1
+👤 Fikerte Tesfaye
+- Github: [@Fikerte-T](https://github.com/Fikerte-T)
+- Twitter: [@tofikertesfaye](https://twitter.com/home)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/fikerte-tesfaye-a68337216/)
 
-### Setup
+## 🤝Contributing
+Any feature requests and contributions are welcome!!
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Check the issues page [here](https://github.com/Fikerte-T/Microverse-Student-Project-1/issues).
 
 ## Show your support
-
-Give a ⭐️ if you like this project!
+Give a 👍 👍 if you approve this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Learning group
+- Standup team
+- Morning session team
 
 ## 📝 License
 
