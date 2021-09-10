@@ -38,13 +38,13 @@ const speakers = [
 ];
 
 const speakerArr = [];
-const homeContainer = document.querySelector('.home-container');
+const home = document.querySelector('.home');
 const partner = document.querySelector('.partner');
 
 const featuredSpeaker = document.createElement('div');
 featuredSpeaker.classList.add('featured-speaker');
-homeContainer.appendChild(featuredSpeaker);
-homeContainer.insertBefore(featuredSpeaker, partner);
+home.appendChild(featuredSpeaker);
+home.insertBefore(featuredSpeaker, partner);
 
 const header2 = document.createElement('h2');
 header2.innerText = 'Featured Speakers';
@@ -100,9 +100,4 @@ const downArrow = document.createElement('i');
 downArrow.classList.add('fas', 'fa-chevron-down');
 button.appendChild(downArrow);
 
-speakerArr[0].classList.add('speaker-1');
-speakerArr[1].classList.add('speaker-2');
-speakerArr[2].classList.add('speaker-3');
-speakerArr[3].classList.add('speaker-4');
-speakerArr[4].classList.add('speaker-5');
-speakerArr[5].classList.add('speaker-6');
+speakerArr.forEach((item, i) => item.classList.add(`speaker-${i + 1}`));
