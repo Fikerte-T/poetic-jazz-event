@@ -4,7 +4,7 @@
 
 > In this project there are two main pages, home page and about page, designed in HTML, CSS and Javascript. The pages are designed to resemble this [template](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015). The featured speakers section in the home page is done with Javascript. 
 
-![Project screenshot](https://github.com/Fikerte-T/Capstone-Project-1/blob/home-about-pages/images/project-screenshot.png)
+![Project screenshot](https://github.com/Fikerte-T/Capstone-Project-1/blob/master/images/project-screenshot.png)
 
 ## Live Demo
 [Live Demo](https://fikerte-t.github.io/Capstone-Project-1/)
